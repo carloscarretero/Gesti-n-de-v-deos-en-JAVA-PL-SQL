@@ -13,3 +13,4 @@ otro usuario.
 - Posibilidad de buscar cualquier canal o video existente.
 
 Esquema de la base de datos 
+![Image of Yaktocat](https://github.com/carloscarretero/Gestion-de-videos-en-JAVA-PL-SQL/blob/master/db_scheme.PNG)
