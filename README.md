@@ -1,4 +1,9 @@
-# Gestion-de-videos-en-JAVA-PL-SQL
+# Gestion de videos en JAVA PL/SQL
+
+## Creacion
+- Lenguajes: Java, PL/SQL, SQL O/R
+
+## Explicacion
 Realización de un programa de gestión de una base de datos de usuarios, canales y videos. Se desea desarrollar un sistema de gestión de contenido audiovisual de usuarios de la aplicación a la que da soporte dicho sistema
 
 La funcionalidad que la aplicación desea ofrecer a los usuarios es la siguiente:
